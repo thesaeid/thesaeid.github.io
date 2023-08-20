@@ -71,7 +71,7 @@ canvas.particles-js-canvas-el{
     color: white;
     background-color: var(--pink-color);
     border: 3px solid var(--pink-color);
-    width: 113px;
+    width: 200px;
     font-family: 'Poppins', sans-serif;
     margin-top: 10px;
 }
