@@ -305,13 +305,10 @@ canvas.particles-js-canvas-el{
   width: 70%;
 }
 .skills__linux{
-  width: 85%;
+  width: 60%;
 }
-.skills__py{
+.skills__django{
   width: 65%;
-}
-.skills__harden{
-  width: 85%;
 }
 .skills__img{
   border-radius: .5rem;
